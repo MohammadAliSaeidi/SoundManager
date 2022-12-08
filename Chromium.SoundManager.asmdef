@@ -1,8 +1,9 @@
 {
-    "name": "SoundManager",
-    "rootNamespace": "",
+    "name": "Chromium.SoundManager",
+    "rootNamespace": "Chromium.SoundManager",
     "references": [
-        "GUID:de6dd650de9785648bb3e8870b7d319c"
+        "GUID:de6dd650de9785648bb3e8870b7d319c",
+        "Chromium.Utilities.Singleton"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.Audio;
-using Utilities;
+using Chromium.Utilities.Singleton;
 
 public class SoundManager : SingletonMonoBehaviour<SoundManager>
 {
